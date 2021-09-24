@@ -1,6 +1,6 @@
 CREATE DATABASE advocacia;
 USE advocacia;
-
+/* o que devo corrigir: criar tabela para: sexo, cargo, municipio (que vai abrigar a UF)*/
 CREATE TABLE TbCliente(
 	RG VARCHAR (11), 
 	nome_cliente  VARCHAR(200), 
